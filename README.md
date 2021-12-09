@@ -53,8 +53,8 @@ I am currently in my 5th semester pursuing Electical & Electronics Engineering f
 <br>
 <img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" />
 <br>
-<!-- <img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" />
-<br> -->
+<img style="margin: 10px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="25" />
+<br>
 </td>
 </tr>
 </table>
