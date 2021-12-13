@@ -21,7 +21,7 @@ Yeah don't WORRY about it. To my best possible extent under law, I have waived a
 I am currently in my 5th semester pursuing Electical & Electronics Engineering from SRM IST. I'm passionate about app development using Flutter, with a strong focus on backend development in Firebase.
 <br/>
 
-- 💬 Ask me about Flutter, Dart and Firebase<br/>
+- 💬 Ask me about Flutter, Dart and Firebase.<br/>
 - 📫 Drop me an email at: [soumyadeepdas.tech@gmail.com](soumyadeepdas.tech@gmail.com)<br/>
 
 <b>More about me :</b><br>
