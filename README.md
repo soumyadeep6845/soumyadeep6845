@@ -66,9 +66,9 @@ I am currently in my 5th semester pursuing Electical & Electronics Engineering f
 <td>
 <br>
 
-🛒 Shop Smart | [GitHub]() - A full-fledged e-commerce application built on Flutter and Firebase.<br>
-💭 Chat Bit | [GitHub]() - A full-stack chat application with real-time data, built using Firebase backend.<br>
-💵 Coin Nitro | [GitHub]() - A full-stack e-wallet application using CRUD functionality on Firebase.<br>
+🛒 Shop Commerce | [GitHub](https://github.com/soumyadeep6845/Shop-Commerce) - A full-fledged e-commerce application built on Flutter and Firebase.<br>
+💭 Chat Bit | [GitHub](https://github.com/soumyadeep6845/Chat-Bit) - A full-stack chat application with real-time data, built using Firebase backend.<br>
+💵 Coin Nitro | [GitHub](https://github.com/soumyadeep6845/Coin-Nitro) - A full-stack e-wallet application using CRUD functionality on Firebase.<br>
 </td>
 </tr>
 </table>
