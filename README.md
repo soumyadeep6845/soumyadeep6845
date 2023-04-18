@@ -18,10 +18,10 @@ Yeah don't WORRY about it. To my best possible extent under law, I have waived a
 <td>
 <br/>
 
-I am currently in my 5th semester pursuing Electical & Electronics Engineering from SRM IST. I'm passionate about app development using Flutter, with a strong focus on backend development in Firebase.
+I am currently in my final year pursuing Electical & Electronics Engineering from SRM IST. I'm passionate about Java Development using Springboot and Microservices.
 <br/>
 
-- 💬 Ask me about Flutter, Dart and Firebase.<br/>
+- 💬 Ask me about Java, Spring framework and Microservices.<br/>
 - 📫 Drop me an email at: [soumyadeepdas.tech@gmail.com](soumyadeepdas.tech@gmail.com)<br/>
 
 <b>More about me :</b><br>
@@ -37,23 +37,38 @@ I am currently in my 5th semester pursuing Electical & Electronics Engineering f
 </td>
 <td>
 <br>
-<img style="margin: 10px" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="25" />
+<img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
 <br>
-<img style="margin: 10px" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="25" />
+<img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" />
+<br>
+<img style="margin: 10px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="25" />
+<br>
+  <img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25" />
+<br>
+</td>
+<td>
+<br>
+<img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" />
+<br>
+  <img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" />
 <br>
 </td>
 <td>
 <br>
 <img style="margin: 10px" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="25" />
 <br>
-<!-- <img style="margin: 10px" src="https://img.shields.io/badge/-Express-success?style=for-the-badge&logo=Express&logoColor=white" height="25" />
-<br> -->
+<img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
+<br>
 </td>
 <td>
 <br>
-<img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" />
+<img style="margin: 10px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="25" />
 <br>
-<img style="margin: 10px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="25" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="25" />
+<br>
+<img style="margin: 10px" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" height="25" />
+<br>
+<img style="margin: 10px" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="25" />
 <br>
 </td>
 </tr>
