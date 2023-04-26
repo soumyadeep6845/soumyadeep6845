@@ -43,7 +43,9 @@ I am currently in my final year pursuing Electical & Electronics Engineering fro
 <br>
 <img style="margin: 10px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="25" />
 <br>
-  <img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25" />
+ <img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25" />
+<br>
+ <img style="margin: 10px" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" height="25" />
 <br>
 </td>
 <td>
