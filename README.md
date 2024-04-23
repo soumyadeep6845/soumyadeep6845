@@ -21,7 +21,7 @@ Yeah don't WORRY about it. To my best possible extent under law, I have waived a
 I am currently in my final year pursuing Electical & Electronics Engineering from SRM IST. I'm passionate about Java Development using Springboot and Microservices.
 <br/>
 
-- 💬 Ask me about Java, Spring framework and Microservices.<br/>
+- 💬 Ask me about Java, Spring Boot, Maven, Gradle.<br/>
 - 📫 Drop me an email at: [soumyadeepdas.tech@gmail.com](soumyadeepdas.tech@gmail.com)<br/>
 
 <b>More about me :</b><br>
