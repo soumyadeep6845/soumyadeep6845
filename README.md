@@ -6,7 +6,6 @@ Hi there! I'm a software development engineer with a passion for full-stack deve
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=soumyadeep6845&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=soumyadeep6845&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeep6845&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soumyadeep6845&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
